@@ -7,7 +7,7 @@
     * importação de arquivos;
     * clonando o repositório do curso
 
-* Dominando Python: introdução
+* <b>Dominando Python: introdução</b>
     * O que é o Python? 
     * Comandos básicos
     * Funções de convesão, arredondamento
@@ -17,7 +17,7 @@
     * Trabalhando com strings
     * Operações com strings
 
-* Análise de dados com Python
+* <b>Análise de dados com Python</b>
     * Conhecendo o pacote Pandas
     * Escrevendo Dataframes
     * Salvar um Dataframe em csv, xlsx, txt
@@ -27,7 +27,7 @@
     * Percorrendo linhas de um Dataframe
     * Mesclando dados a partir de várias Dataframes
 
-* Análise de dados textuais com Regex
+* <b>Análise de dados textuais com Regex</b>
     * Estudos de caso com dados jurídicos e de redes sociais
         * Contagem de palavras
         * Identificação de dados numéricos
