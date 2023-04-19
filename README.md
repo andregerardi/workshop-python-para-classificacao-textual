@@ -2,7 +2,7 @@
 
 ## Tópicos do curso:
 
-* Como utilizar o Google Collaboratory - Colab
+* <b>Como utilizar o Google Collaboratory - Colab<b>
     * criação de células;
     * importação de arquivos;
     * clonando o repositório do curso
