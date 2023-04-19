@@ -1,5 +1,7 @@
 # Workshop Python para a classificacao de textos
 
+O curso tem por objetivo fornceser ferramentas computacionais e da linguística para a análise e classificação de Corpus textuais.
+
 ## Tópicos do curso:
 
 * <b>Como utilizar o Google Collaboratory - Colab</b>
@@ -27,7 +29,7 @@
     * Percorrendo linhas de um Dataframe
     * Mesclando dados a partir de várias Dataframes
 
-* <b>Análise de dados textuais com Regex</b>
+* <b>Classificação e análise de dados textuais com Regex</b>
     * Estudos de caso com dados jurídicos e de redes sociais
         * Contagem de palavras
         * Identificação de dados numéricos
