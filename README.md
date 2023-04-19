@@ -1,10 +1,10 @@
 # Workshop Python para a classificacao de textos
 
-Objetivo: o curso fornece ferramentas de Ciência de Dados e da Linguística Computacional para responder questões de pesquisa da área jurídica data-diven. 
+**Objetivo:** o curso fornece ferramentas de Ciência de Dados e da Linguística Computacional para responder questões de pesquisa da área jurídica data-diven. 
 
-Material: dados extraídos dos portais do STF, TSE e redes sociais. 1) votação dos ministros do STF na ADI-4439 em 2017, 2) decisões sobre desinformação/fake news nas eleições de 2022 e 3) postagens feitas por candidatos à presidência 2022 no Facebook. 
+**Material:** dados extraídos dos portais do STF, TSE e redes sociais. 1) votação dos ministros do STF na ADI-4439 em 2017, 2) decisões sobre desinformação/fake news nas eleições de 2022 e 3) postagens feitas por candidatos à presidência 2022 no Facebook. 
 
-Resultados: Ao final do curso, os pesquisadores saberão utilizar a plataforma Google Colab, conhecerão as principais operações do Python, bem como serão capazes de escrever bases de dados, importa-las, bem como extrair informações de dados textuais, por meio de word cloud, gráficos simples, estatísticas básicas. Os alunos saberão classificar textos utilizando poucas linhas de código.
+**Resultados:** Ao final do curso, os pesquisadores saberão utilizar a plataforma Google Colab, conhecerão as principais operações do Python, bem como serão capazes de escrever bases de dados, importa-las, bem como extrair informações de dados textuais, por meio de word cloud, gráficos simples, estatísticas básicas. Os alunos aprenderão a classificar frases e textos, produzindo novos dados, utilizando apenas poucas linhas de código.
 
 ## Tópicos do curso:
 
