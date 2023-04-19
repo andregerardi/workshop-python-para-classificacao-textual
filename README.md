@@ -1,16 +1,16 @@
 # Workshop Python para a classificacao de textos
 
-O curso tem por objetivo fornecer exemplos de ferramentas computacionais e da linguística para a produção de análises e classificação de bases de dados textuais. O treinamento encoraja pesquisadores na utilização de tais técnicas na análise de seus dados de pesquisa. Os estudos de casos serão realizados com dados reais extraídos do STF, TSE e de redes sociais, tais como votação da ADI-4439, decisões tratando da desinformação/fake news e postagens feitas por candidatos à presidência 2022 em redes sociais. Ao final do curso os pesquisadores saberão utilizar a plataforma Google Collaboratory, conhecerão os principais comandos da linguagem de programação Python, sendo capazes de escrever bases de dados, importa-las de fontes externas, bem como produzir análises básicas dos dados, construir gráficos simples, word cloud, estatísticas básicas, tanto mais classificar dados textuais com técnicas simples.
+O curso tem por objetivo fornecer ferramentas de Data Science e da Linguística Computacional para a produção de análises e classificação de bases de dados textuais. O treinamento encoraja pesquisadores da área jurídica na utilização desses métodos na análise de seus próprios dados de pesquisa. O curso utilizará em seus estudos de caso dados reais extraídos dos portais do STF, TSE e de redes sociais, tais como votação da ADI-4439, decisões sobre desinformação/fake news e postagens feitas por candidatos à presidência 2022 em redes sociais. Ao final do curso os pesquisadores saberão utilizar a plataforma Google Colab, conhecerão as principais operações do Python, bem como serão capazes de escrever bases de dados, importa-las de fontes externas, bem como extrair informações de dados textuais, construir word cloud, gráficos simples, estatísticas básicas, tanto mais classificar dados textuais com técnicas simples.
 
 ## Tópicos do curso:
 
-* <b>Como utilizar o Google Collaboratory - Colab</b>
+* <b>Ambiente para Data Science: Google Collaboratory</b>
     * criação de células;
     * importação de arquivos;
     * clonando o repositório do curso
 
 * <b>Dominando Python: introdução</b>
-    * O que é o Python? 
+    * Conhecendo a linguagem 
     * Comandos básicos
     * Funções de convesão, arredondamento
     * Trabalhando com variáveis
