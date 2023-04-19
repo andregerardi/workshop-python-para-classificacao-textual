@@ -43,11 +43,19 @@
         * Gráficos
         * Salvando a base
         
+### Como clonar
 
+```
+#### acesse o google drive
+from google.colab import drive
+drive.mount('/content/gdrive')
 
+#### criar uma pasta para receber os arquivos
+!mkdir '(2023) workshop_python'
 
+#### abra a pasta criada
+%cd /content/gdrive/My Drive/'(2023) Workshop_python'
 
-
-
-
-
+#### clone os arquivos do curso
+!git clone https://github.com/andregerardi/workshop-python-para-classificacao-textual
+```
