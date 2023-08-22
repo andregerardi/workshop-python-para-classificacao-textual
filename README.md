@@ -2,8 +2,8 @@
 
 ## 1) Resumo:
 
-**Objetivo:** o curso fornece ferramentas de Ciência de Dados e da Linguística Computacional para responder questões de pesquisa da área jurídica data-diven. 
-**Material:** dados extraídos dos portais do STF, TSE e redes sociais. i) votação dos ministros do STF na ADI-4439 em 2017, ii) decisões sobre desinformação/fake news nas eleições de 2022 e iii) postagens feitas por candidatos à presidência 2022 no Facebook. **Resultados:** Ao final do curso, os pesquisadores saberão utilizar a plataforma Google Colab, conhecerão as principais operações do Python, bem como serão capazes de escrever bases de dados, importa-las, bem como extrair informações de dados textuais, por meio de word cloud, gráficos simples, estatísticas básicas. Os alunos aprenderão a classificar frases e textos, produzindo novos dados, utilizando apenas poucas linhas de código.
+**Objetivo:** o curso ensina Python básico orientado a classificação de textos. 
+**Material:** o cuso utilzará dados jurídicos e de redes sociais. **Resultados:** Ao final do curso, os pesquisadores conhecerão as operações do Python, as principais plataformas para a execução dos códigos, bem como serão capazes de gerar e importar bases de dados, classificar frases e textos, bem como extrair informações por meio wordcloud, gráficos simples e estatísticas básicas, utilizando apenas poucas linhas de código.
 
 ## 2) Tópicos do curso:
 
