@@ -28,9 +28,7 @@
     * Salvar um Dataframe em csv, xlsx, txt
     * Como importar uma tabela usando Pandas?
     * Inspecionando Dataframes
-    * Consultado e alterando Dataframes
     * Percorrendo linhas de um Dataframe
-    * Mesclando dados a partir de várias Dataframes
 
 * <b>Classificação e análise de dados textuais com Regex</b>
     * Estudos de caso com dados jurídicos e de redes sociais
