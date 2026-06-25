@@ -48,10 +48,10 @@ from google.colab import drive
 drive.mount('/content/gdrive')
 
 #### crie uma pasta para receber os arquivos
-!mkdir '(2023) workshop_python'
+!mkdir '(2026) workshop python para cientistas politicos'
 
 #### abra a pasta criada
-%cd /content/gdrive/My Drive/'(2023) Workshop_python'
+%cd /content/gdrive/My Drive/'(2026) workshop python para cientistas politicos'
 
 #### clone os arquivos do curso
 !git clone https://github.com/andregerardi/workshop-python-para-classificacao-textual
