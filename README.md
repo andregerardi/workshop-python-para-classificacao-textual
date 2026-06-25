@@ -42,15 +42,15 @@
         
 ## 3) Como clonar o repositório no Google Colab?
 
-## 1. Acesse o Google Drive
+## Acesse o Google Drive
 
 Abra o seu Google Drive e faça login na sua conta.
 
-## 2. Abra o Google Colab
+## Abra o Google Colab
 
 Acesse o Google Colab e crie um novo notebook.
 
-## 3. Monte o Google Drive
+## Monte o Google Drive
 
 Execute a célula abaixo:
 
@@ -59,19 +59,19 @@ from google.colab import drive
 drive.mount('/content/gdrive')
 ```
 
-## 4. Crie uma pasta para os arquivos do curso
+## Crie uma pasta para os arquivos do curso
 
 ```bash
 !mkdir "(2026) workshop python para cientistas politicos"
 ```
 
-## 5. Acesse a pasta criada
+## Acesse a pasta criada
 
 ```python
 %cd /content/gdrive/MyDrive/"(2026) workshop python para cientistas politicos"
 ```
 
-## 6. Clone os arquivos do curso
+## Clone os arquivos do curso
 
 ```bash
 !git clone https://github.com/andregerardi/workshop-python-para-classificacao-textual
