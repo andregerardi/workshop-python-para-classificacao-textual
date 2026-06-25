@@ -62,14 +62,13 @@ drive.mount('/content/gdrive')
 ## Crie uma pasta para os arquivos do curso
 
 ```bash
-!mkdir "(2026) workshop python para cientistas politicos"
+mkdir -p "/content/gdrive/MyDrive/(2026) workshop python para cientistas politicos"
 ```
 
 ## Acesse a pasta criada
 
 ```python
-%cd /content/gdrive/MyDrive/"(2026) workshop python para cientistas politicos"
-```
+%cd /content/gdrive/MyDrive/"(2026) workshop python para cientistas politicos"```
 
 ## Clone os arquivos do curso
 
