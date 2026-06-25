@@ -3,7 +3,7 @@
 ## 1) Resumo:
 
 **Objetivo:** o curso ensina Python básico orientado a classificação de textos. 
-**Material:** o cuso utilzará dados jornalísticos e de redes sociais. **Resultados:** Ao final do curso, os pesquisadores conhecerão as operações do Python, as principais plataformas para a execução dos códigos, bem como serão capazes de gerar e importar bases de dados, classificar frases e textos, bem como extrair informações por meio wordcloud, gráficos simples e estatísticas básicas, utilizando apenas poucas linhas de código.
+**Material:** o cuso utilzará dados jornalísticos e de redes sociais. **Resultados:** Ao final do curso, os pesquisadores conhecerão as operações do Python, as principais plataformas para a execução dos códigos, bem como serão capazes de gerar e importar bases de dados, classificar frases e textos, bem como extrair informações por meio wordcloud, gráficos simples e estatísticas básicas, utilizando poucas linhas de código.
 
 ## 2) Tópicos do curso:
 
